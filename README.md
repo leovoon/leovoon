@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Code-ReactJS-blue?style=flat-square&logo=react) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php) ![](https://img.shields.io/badge/Framework-Laravel-orange?style=flat-square&logo=laravel)
 
-# Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
 ![](https://img.shields.io/badge/IDE-VSCode-blueviolet?style=flat-square&logo=visual-studio-code)

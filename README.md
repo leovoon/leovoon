@@ -1,8 +1,7 @@
 # Hello from 🇲🇾 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 _________________
 
-“People say nothing is impossible, but I do nothing every day.”
-– A. A. Milne
+~~~~ Programming is cool. ~~~~
 
 🌱 I’m currently learning  
 

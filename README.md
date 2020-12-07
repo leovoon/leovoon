@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning
 
-![](https://img.shields.io/badge/Code-Vue-brightgreen?style=flat-square&logo=vue.js) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php) ![](https://img.shields.io/badge/Framework-Laravel-orange?style=flat-square&logo=laravel)
+![](https://img.shields.io/badge/Code-Vue-brightgreen?style=flat-square&logo=vue.js) 
 
 ## Technologies & Tools
 

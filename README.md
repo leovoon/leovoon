@@ -4,10 +4,6 @@
 ``` Programming is cool. ```
 
 
-🌱 I’m currently learning
-
-![](https://img.shields.io/badge/Code-Vue-brightgreen?style=flat-square&logo=vue.js) 
-
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)

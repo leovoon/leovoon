@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/IDE-VSCode-blueviolet?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Markup-HTML-orange?style=flat-square&logo=HTML5)
 ![](https://img.shields.io/badge/Code-SCSS-ff69b4?style=flat-square&logo=sass)
+![](https://img.shields.io/badge/Code-TailwindCSS-ff69b4?style=flat-square&logo=tailwindcss)
 ![](https://img.shields.io/badge/Code-JavaScript-orange?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![](https://img.shields.io/badge/-Tailwind-CSS-38B2AC?style=flat-square&logo=tailwindcss)

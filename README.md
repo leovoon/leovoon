@@ -1,8 +1,11 @@
 # Hello from 🇲🇾 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Favourite stack
+```
+Vite + Vue/Nuxt + WindiCSS
 
-``` Code. ```
-
+Firebase/MongoDB/SQL
+```
 
 ## Technologies & Tools
 

@@ -4,7 +4,7 @@ Favourite stack
 ```
 Vite + Vue/Nuxt + WindiCSS
 
-Firebase/MongoDB/SQL
+Express - Firebase/MongoDB/SQL based
 ```
 
 ## Technologies & Tools

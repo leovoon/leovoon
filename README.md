@@ -19,7 +19,7 @@ Express - Firebase/MongoDB/SQL based
 ![](https://img.shields.io/badge/Server-Express-success?style=flat-square&logo=express)
 ![](https://img.shields.io/badge/DBL-SQL-yellow?style=flat-square&logo=mysql)
 ![](https://img.shields.io/badge/DBL-MongoDB-green?style=flat-square&logo=mongodb)
-
 ![](https://img.shields.io/badge/Tools-Netlify-blue?style=flat-square&logo=netlify)
+![](https://img.shields.io/badge/Tools-Vercel-161E2E?style=flat-square&logo=vercel)
 ![](https://img.shields.io/badge/Tools-Heroku-blueviolet?style=flat-square&logo=heroku)
 

@@ -2,7 +2,7 @@
 
 Favourite stack
 ```
-Vite + Vue/Nuxt + WindiCSS
+Vite + Vue3/Nuxt + WindiCSS
 
 Express - Firebase/MongoDB/SQL based
 ```

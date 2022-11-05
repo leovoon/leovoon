@@ -18,15 +18,10 @@ Hello, I'm Leo. An aspiring **Frontend Developer**.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-</div>
-
-
-
-
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=leovoon&show_icons=true"/>

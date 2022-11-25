@@ -6,7 +6,9 @@
 </p>
 
 
-Hello, I'm Leo. An aspiring **Frontend Developer**.
+Hello, I'm Leo.
+
+[List of hobby projects 🔗](https://leovoon.carrd.co)
 
 ## The things I learn from time to time
 

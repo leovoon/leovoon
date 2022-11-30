@@ -8,7 +8,7 @@
 
 Hello, I'm Leo.
 
-[List of hobby projects 🔗](https://leovoon.carrd.co)
+[List of hobby projects 🔗](https://leovoon.github.io)
 
 ## The things I learn from time to time
 

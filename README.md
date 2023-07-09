@@ -4,9 +4,7 @@
     </a>
 </p>
 
-Hello, I'm Leo.
-
-[List of hobby projects 🔗](https://leovoon.github.io)
+Hello, I'm Leo. I ❤️ modern web frontend.
 
 ## The things I learn from time to time
 

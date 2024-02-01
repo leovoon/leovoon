@@ -7,7 +7,7 @@ Hello from 🇲🇾, I'm Leo. I love the versatility of modern web development.
 </a>
 
 #### Hobby projects:
-- [laoshi-share](https://laoshi.vercel.app/)
+- [laoshi-share](https://laoshi.lol/)
 - [drink speak](https://drinkspeak.vercel.app/)
 - [gi-track](https://gi-track.vercel.app/)
 - [tatan](https://tatan.vercel.app/)
